@@ -1,0 +1,22 @@
+.swiper-container {
+  position: relative;
+  overflow: visible; /* Ensure overflow is visible */
+  padding-left: 50px; /* Adjust as needed */
+  padding-right: 50px; /* Adjust as needed */
+}
+
+.swiper-slide {
+  transform: scale(0.8); /* Scale down the slides */
+  transition: transform 0.3s ease;
+}
+
+.swiper-slide-active {
+  transform: scale(1); /* Scale up the active slide */
+}
+
+.slide-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

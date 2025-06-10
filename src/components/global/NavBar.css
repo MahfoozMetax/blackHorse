@@ -1,0 +1,19 @@
+#nav-li {
+  position: relative;
+  padding: 0 5px;
+  transition: 0.3s;
+}
+#nav-li:after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 0;
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  top: 23px;
+  transition: ease-out 0.5s;
+}
+#nav-li:hover:after {
+  width: 100%;
+}

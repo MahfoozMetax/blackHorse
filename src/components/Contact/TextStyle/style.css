@@ -1,0 +1,4 @@
+.fancy-outlined-text {
+    -webkit-text-stroke: 1px gray;
+    color: transparent;
+}
