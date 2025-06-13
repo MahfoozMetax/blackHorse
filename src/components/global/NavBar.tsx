@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import "../global/NavBar.css";
-import logo from "../../assets/bablaLogo.svg";
+import logo from "../../../public/blackLogo.png";
 // import { Button } from "@/components/ui/button"
 // import { Input } from "@/components/ui/input"
 // import { Label } from "@/components/ui/label"
@@ -51,7 +51,7 @@ const NavBar = () => {
         {/* logo div */}
         <div className="">
           <Link to={"/"}>
-            <img src={logo} alt="" className="h-16" />
+            <img src={logo} alt="" className="h-16 rounded-xl" />
           </Link>
         </div>
         {/* list */}

@@ -50,7 +50,7 @@ const FormSection = () => {
                 <span>
                   <MdOutlineMail />
                 </span>{" "}
-                info@unitedpreconstruction.com
+                info@blackhorseconsultancy.com
               </p>
             </div>
             <div className="flex flex-col gap-3">
@@ -59,7 +59,7 @@ const FormSection = () => {
                 <span>
                   <FiMapPin />
                 </span>{" "}
-                100 Business Park LN, Unit E, Miltlon , Delaware.
+                B.C. 1300254 Ajman UAE
               </p>
             </div>
           </div>

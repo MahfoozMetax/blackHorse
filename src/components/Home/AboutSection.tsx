@@ -33,7 +33,7 @@ const AboutSection = () => {
             </p>
             <h1 className="text-4xl font-bold">Innovating Digital Solutions</h1>
             <p className="text-gray-400 ">
-              At <span className="font-monoton">United Pre-Construction</span> ,
+              At <span className="font-syne font-bold">Black Horse Consultancy</span> ,
               we specialize in transforming ideas into engaging digital
               experiences.Our expert team offers top-notch services and training
               in key areas of achitecture estimatings and software developments.

@@ -1,7 +1,6 @@
 import HeroSection from "./HeroSection";
 import AboutSection from "./AboutSection";
 import ServiceSection from "./ServiceSection";
-import TeamSection from "./TeamSection";
 import ClientFirstSection from "./ClientFirstSection";
 import NewsSection from "./NewsSection";
 import RecalSection from "./RecalSection";
@@ -16,7 +15,6 @@ const HomePage = () => {
 
       <AboutSection />
       <ServiceSection />
-      <TeamSection />
       <ClientFirstSection />
       <NewsSection />
       <RecalSection />
