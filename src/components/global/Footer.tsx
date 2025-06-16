@@ -4,7 +4,7 @@ const Footer = () => {
       <main className="flex items-center justify-center py-7 max-w-6xl mx-auto">
         <div className="flex justify-center w-full">
           <p className="text-gray-400 w-[85%] md:w-full text-center text-sm">
-            Copyright &copy; 2024 all rights reserved by United PreConstruction
+            Copyright 2025 all rights reserved by Black Horse Consultancy and Management F.Z.E
             & Developed by{" "}
             <a
               href="https://mahfooz-nu.vercel.app/"
