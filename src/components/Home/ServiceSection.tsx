@@ -68,24 +68,25 @@ const ServiceSection = () => {
             <img src={meetingHeroImg} alt="" className="h-[370px] w-full  " />
           </div>
 
-          <ServiceCard
-            icon={<BsPaintBucket className="text-[silver] text-4xl" />}
-            color={"bg-[#181B21]"}
-            title="Web Development"
-            subtitle="Creating tailored websites with cutting-edge tech for seamless performance and stunning design"
-          />
-          <ServiceCard
-            icon={<MdOutlineGraphicEq className="text-[silver] text-4xl" />}
-            color={"bg-[#1A1E25]"}
-            title="Architecture Designing"
-            subtitle="Designing innovative, functional spaces with precision planning and structural excellence."
-          />
-          <ServiceCard
-            icon={<GiSkills className="text-[silver] text-3xl" />}
-            color={"bg-[#20242C]"}
-            title="Estimating and Material Take Off"
-            subtitle="Enabling smarter project decisions with reliable cost analysis and material quantification."
-          />
+   <ServiceCard
+  icon={<BsPaintBucket className="text-[silver] text-4xl" />}
+  color={"bg-[#181B21]"}
+  title="Organizational Strategy"
+  subtitle="Designing customized business strategies to boost performance, streamline operations, and drive growth."
+/>
+<ServiceCard
+  icon={<MdOutlineGraphicEq className="text-[silver] text-4xl" />}
+  color={"bg-[#1A1E25]"}
+  title="Workforce Planning & Development"
+  subtitle="Enhancing human capital through talent mapping, training programs, and effective resource planning."
+/>
+<ServiceCard
+  icon={<GiSkills className="text-[silver] text-3xl" />}
+  color={"bg-[#20242C]"}
+  title="Performance & Process Optimization"
+  subtitle="Improving organizational efficiency through data-driven analysis, process refinement, and strategic consultancy."
+/>
+
         </div>
         {/* count animation */}
         <div className="relative my-28">

@@ -16,11 +16,11 @@ const HeroSection = () => {
 
   const data = [
     {
-      title: "Web Development",
+      title: "Management Consultancies",
       image: "/workingHeroImg.jpg",
     },
     {
-      title: "Architecture Designing",
+      title: "Human ResourcesConsultancy",
       image: "/meetingHeroImg.jpg",
     },
   ];
@@ -59,11 +59,11 @@ const HeroSection = () => {
                     data-aos="fade-right"
                   >
                     <h1 className="font-bold">
-                      <span className="fancy-text text-[45px] md:text-[70px] -ml-24 md:-ml-40">
+                      <span className="fancy-text text-[39px] md:text-[50px] lg:text-[70px] -ml-24 md:-ml-40">
                         {firstWord}
                       </span>{" "}
                       <br />{" "}
-                      <span className="md:ml-40 ml-6 text-[60px] md:text-[110px] text-[#0C0F16]">
+                      <span className="md:ml-40 ml-6 text-[27px] md:text-[40px] lg:text-[70px] text-[#0C0F16]">
                         {restOfTitle}
                       </span>
                     </h1>

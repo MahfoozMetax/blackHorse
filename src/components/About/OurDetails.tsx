@@ -12,22 +12,10 @@ const OurDetails = () => {
       <div className="max-w-6xl mx-auto">
         <div className="flex py-28 flex-col md:flex-row gap-4 px-5">
           <h1 className="text-3xl font-bold w-[100%]">Who We Are ?</h1>
-          <p className="text-gray-400">
-            At United Pre Construction, we bridge the gap between construction
-            and technology by delivering expert solutions across multiple
-            domains. With a strong foundation in the construction industry, we
-            specialize in architectural design and detailed cost
-            estimating—providing accurate material takeoffs and planning to
-            ensure efficient, budget-conscious projects. In addition, our
-            technology team offers cutting-edge web and software development
-            services using the latest stacks including MERN (MongoDB, Express,
-            React, Node.js) and Laravel/PHP. Whether you're a builder,
-            architect, or business owner, we create tailored digital
-            solutions—ranging from responsive websites to powerful construction
-            management tools—that streamline operations and elevate your vision.
-            We’re committed to blending industry expertise with modern
-            innovation to support your success from concept to completion.
-          </p>
+    <p className="text-gray-400">
+  At Black Horse Consultancy and Management – F.Z.E, we empower organizations by combining strategic insight with innovative solutions across management and human resources. With deep expertise in business consulting, we help clients streamline operations, enhance organizational structure, and align strategies with long-term goals. Our HR consultancy services cover everything from talent acquisition and workforce planning to employee engagement and development, ensuring businesses build strong, adaptable teams. Whether you're a startup or an established enterprise, we deliver customized strategies and solutions that drive efficiency, boost performance, and support sustainable growth. At Black Horse, we’re dedicated to guiding your business forward—effectively, strategically, and with impact.
+</p>
+
         </div>
       </div>
     </main>

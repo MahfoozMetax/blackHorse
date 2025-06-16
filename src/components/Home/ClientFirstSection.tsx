@@ -99,17 +99,17 @@ const ClientFirstSection = () => {
               data-aos="fade-down"
             >
               <div className="flex items-center gap-2">
-                <CircularProgressBar percentage={"75"} />
+                <CircularProgressBar percentage={"89"} />
                 <div className="">
-                  <p className="text-gray-600 text-xs">project</p>
-                  <h1 className="font-bold">Estimatings</h1>
+                  <p className="text-gray-600 text-xs">Management </p>
+                  <h1 className="font-bold">Consultancies</h1>
                 </div>
               </div>
               <div className="flex items-center">
                 <CircularProgressBar percentage={"90"} />
                 <div className="">
-                  <p className="text-gray-600 text-xs">Web</p>
-                  <h1 className="font-bold">Development</h1>
+                  <p className="text-gray-600 text-xs">Human Resources </p>
+                  <h1 className="font-bold">Consultancy</h1>
                 </div>
               </div>
               {/* <div className="radial-progress" style={{ "--value": "70", "--size": "12rem", "--thickness": "2px" }} role="progressbar">70%</div> */}

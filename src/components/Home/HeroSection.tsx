@@ -18,23 +18,19 @@ const HeroSection = () => {
   useEffect(() => {
     Aos.init({ duration: 1000 });
   }, []);
-  const data = [
-    {
-      title: "Transforming Plans into Reality",
-      text: " Your trusted partner for comprehensive and perfect estimates. Superior Estimates combines accuracy with excellence, offering top-tier services to turn your challenges into opportunities and vision into reality",
-      image: "/cons.jpg",
-    },
-    {
-      title: "Fine Estimatings and Architectures",
-      text: " If u need to redsign your new project,new visual strategy,ux structure or you do have some cool ideas for collaboration.",
-      image: "/meetingHeroImg.jpg",
-    },
-    {
-      title: "Software Development and Design",
-      text: " If u need to develop a website or software, we can built it for you to boost your busiess",
-      image: "/workingHeroImg.jpg",
-    },
-  ];
+ const data = [
+  {
+    title: "Bridging Vision with Execution",
+    text: "Your reliable partner for tailored consultancy solutions. At BlackHorse Consultancy, we specialize in providing accurate insights and strategic support to help organizations turn challenges into growth opportunities.",
+    image: "/workingHeroImg.jpg",
+  },
+  {
+    title: "Expert Management & HR Consultancy",
+    text: "Whether you're reimagining your business strategy, enhancing UX, or exploring new collaborative ventures, our consultancy services in management and human resources are here to support your transformation.",
+    image: "/meetingHeroImg.jpg",
+  },
+];
+
   return (
     <main className=" fixed top-0 h-screen w-full -z-20">
       <div className="">

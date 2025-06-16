@@ -1,4 +1,4 @@
-import logo from "../../../public/blackLogo.png";
+import logo from "../../assets/Untitled-2.png";
 import { Link } from "react-router-dom";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { FiMapPin } from "react-icons/fi";
@@ -10,7 +10,7 @@ const DetailsAndForm = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 max-w-6xl mx-auto ">
         {/* contact div */}
         <div className="flex flex-col gap-10 bg-[#151921] px-6 py-16">
-          <img src={logo} alt="" className="w-[170px] rounded-xl" />
+          <img src={logo} alt="" className="w-[170px]" />
           <ul className="flex flex-col gap-5">
             <li>
               Black Horse Consultancy and Management 

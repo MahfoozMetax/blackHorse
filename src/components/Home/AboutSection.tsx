@@ -31,12 +31,9 @@ const AboutSection = () => {
             <p className="flex items-center gap-2 ">
               <RxDragHandleDots2 className="text-xl text-[#44584D]" /> ABOUT US
             </p>
-            <h1 className="text-4xl font-bold">Innovating Digital Solutions</h1>
+            <h1 className="text-4xl font-bold">Empowering Organizations Through Strategic Consultancy</h1>
             <p className="text-gray-400 ">
-              At <span className="font-syne font-bold">Black Horse Consultancy</span> ,
-              we specialize in transforming ideas into engaging digital
-              experiences.Our expert team offers top-notch services and training
-              in key areas of achitecture estimatings and software developments.
+        At Black Horse Consultancy, we specialize in transforming ideas into actionable strategies. Our expert team provides high-impact services and training in management consulting and human resources, helping businesses optimize operations, elevate talent, and drive sustainable growth.
             </p>
             <div className="grid md:grid-cols-3 grid-cols-2 gap-2">
               <div className="bg-[#11141B]  py-6 rounded">
